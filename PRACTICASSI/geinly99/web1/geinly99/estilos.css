@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    background: beige;
+    color: black;
+}
+h2{
+    padding: 15px;
+    background: plum;
+    color: black;
+}
